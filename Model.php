@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 //1.命名空间
 //2.为了符合composer中的psr-4规则
 namespace liuge\model;
