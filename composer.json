@@ -1,0 +1,14 @@
+{
+    "name": "liuge/model",
+    "require": {}
+,
+"autoload":{"psr-4":{
+"liuge\\model\\":""
+
+}
+}
+
+
+
+
+}
